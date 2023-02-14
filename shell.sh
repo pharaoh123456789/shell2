@@ -1,8 +1,8 @@
 shell_version="1.1.3"
 #对接地址
-dockerurl="https://metron.gogo.bid"
+dockerurl="http://139.59.125.35"
 #对接key
-dockerkey="200423"
+dockerkey="pharaoh"
 #host
 dockerweb="eplcgame.com"
 #下面写你的授权码
